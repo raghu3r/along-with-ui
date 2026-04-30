@@ -10,4 +10,7 @@ Topics a Senior UI engineer should have knowledge to get deep understanding of a
 * Headless & microservices based architecture
 * API Gateways (APIgee, Kong, AWS api gateway)
 * Low code / No code platforms
+
+# Complete system design 1 chapter a day
+* Yes - 1 chapter a day or 20 pages a day makes good progress 
   
