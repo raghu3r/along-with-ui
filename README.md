@@ -12,5 +12,7 @@ Topics a Senior UI engineer should have knowledge to get deep understanding of a
 * Low code / No code platforms
 
 # Complete system design 1 chapter a day
-* Yes - 1 chapter a day or 20 pages a day makes good progress 
+* Yes - 1 chapter a day or 20 pages a day makes good progress
+* Have completed 2 chapters till date - 30th april 2026
+* Next one - a framework for system design interviews - Interesting stuff.
   
