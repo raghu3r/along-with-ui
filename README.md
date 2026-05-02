@@ -11,6 +11,7 @@ Topics a Senior UI engineer should have knowledge to get deep understanding of a
 * API Gateways (APIgee, Kong, AWS api gateway)
 * Low code / No code platforms
 * Role-Based Access Control - RBAC in a Node.js and Express application typically involves creating middleware that checks a user's assigned roles before allowing access to specific routes
+* password hashing in node js
 
 # Complete system design 1 chapter a day
 * Yes - 1 chapter a day or 20 pages a day makes good progress
