@@ -4,6 +4,7 @@ Topics a Senior UI engineer should have knowledge to get deep understanding of a
 # UI topics to cover
 * Module Federation + POC's
 * Micro frontend architecture
+* How the browser works
 
 # BE topics to know
 * Design & Deploy applications and micro services on Public cloud platforms.
